@@ -22,7 +22,7 @@ You may get any PCB manufacturer to produce the board for you. The board is 2-la
 
 This link takes you to a store to buy them 
 
-http://dirtypcbs.com/store/designer/details/12476/1120/sl520-rev3-zip
+(DirtyPCBs link removed as it is now dead.)
 
 To populate a PCB you will likely need the following tools.
 
